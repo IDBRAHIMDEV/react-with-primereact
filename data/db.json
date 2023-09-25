@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "image": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/ndgpEj1YRAqrlS0gNZBb",
+      "title": "Learn how to learn",
+      "body": "learn all about the web development front and backend using the javascript language",
+      "active": true,
+      "id": 1
+    },
+    {
+      "image": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/TZLXpJ9ORhmBgJUs1v5A",
+      "title": "Learn Python 10",
+      "body": "learn python to became an analytics developer",
+      "active": true,
+      "id": 3
+    },
+    {
+      "title": "Learn Vue 3",
+      "active": false,
+      "body": "learn frontend app from scratch with Vue and VueX",
+      "image": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/VXYNEvjqRvaVy7cvy0he",
+      "id": 6
+    }
+  ]
+}
